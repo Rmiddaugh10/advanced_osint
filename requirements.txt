@@ -1,0 +1,39 @@
+# Core dependencies
+pyyaml>=6.0.1           # For configuration file handling
+dnspython>=2.4.2        # For DNS record lookups and enumeration
+python-whois>=0.8.0     # For WHOIS information gathering
+requests>=2.31.0        # For HTTP requests
+aiohttp>=3.9.1          # For async HTTP requests
+beautifulsoup4>=4.12.2  # For web scraping
+shodan>=1.30.1          # For Shodan API integration
+censys>=2.2.8           # For Censys API integration
+virustotal-api>=1.1.11  # For VirusTotal API integration
+
+# Networking tools
+socket>=0.0.0           # Built-in, for network operations
+asyncio>=3.4.3          # For asynchronous operations
+aiofiles>=23.2.1        # For async file operations
+
+# Data processing
+pandas>=2.1.4           # For data manipulation and analysis
+numpy>=1.26.2           # For numerical operations
+
+# Security tools
+cryptography>=41.0.7    # For cryptographic operations
+pyOpenSSL>=23.3.0       # For SSL/TLS certificate analysis
+python-nmap>=0.7.1      # For port scanning
+
+# Testing dependencies
+pytest>=7.4.3           # For running tests
+pytest-asyncio>=0.23.2  # For testing async functions
+pytest-cov>=4.1.0       # For test coverage reporting
+
+# Development tools
+black>=23.12.0          # For code formatting
+isort>=5.13.2           # For import sorting
+flake8>=6.1.0           # For code linting
+mypy>=1.7.1             # For type checking
+
+# Documentation
+sphinx>=7.2.6           # For generating documentation
+sphinx-rtd-theme>=1.3.0 # Documentation theme

@@ -1,0 +1,92 @@
+api_keys:
+  shodan: ''
+  virustotal: ''
+  censys: ''
+  securitytrails: ''
+  haveibeenpwned: ''
+
+modules:
+  passive_recon: true
+  active_recon: true
+  social_media: true
+  dark_web: false
+
+scan_options:
+  timeout: 30
+  threads: 5
+  max_subdomains: 100
+  port_scan_type: 'top-1000'
+  subdomain_enumeration: true
+  screenshot_enabled: true
+
+rate_limits:
+  requests_per_second: 5
+  max_concurrent_requests: 10
+
+passive_recon:
+  enable_whois: true
+  enable_dns: true
+  enable_ssl_info: true
+  enable_ip_info: true
+  enable_asn_info: true
+
+active_recon:
+  ports:
+    - 21
+    - 22
+    - 23
+    - 25
+    - 53
+    - 80
+    - 443
+    - 445
+    - 3389
+  vulnerability_scan: true
+  technology_detection: true
+  web_crawling: true
+  screenshot_paths: true
+
+social_media:
+  platforms:
+    - twitter
+    - linkedin
+    - facebook
+    - instagram
+    - github
+  enable_profile_search: true
+  enable_mention_monitoring: true
+  historical_data_lookup: true
+
+dark_web:
+  enable_breach_search: true
+  enable_marketplace_search: true
+  enable_forum_search: true
+  max_search_depth: 2
+
+output:
+  format: json
+  directory: results
+  report_template: detailed
+  include_screenshots: true
+  include_raw_data: true
+
+proxy:
+  enabled: false
+  type: socks5
+  host: ''
+  port: ''
+  username: ''
+  password: ''
+
+logging:
+  level: INFO
+  file: osint.log
+  rotate: true
+  max_size: 10MB
+  backup_count: 5
+
+storage:
+  type: local
+  compress_results: true
+  retention_days: 30
+  backup_enabled: true
