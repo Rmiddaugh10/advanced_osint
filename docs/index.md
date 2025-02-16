@@ -1,10 +1,10 @@
 # OSINT Framework Documentation
 
-Welcome to the OSINT Framework documentation. This comprehensive guide will help you understand, install, and effectively use our OSINT framework for security research and analysis.
+Welcome to the OSINT Framework documentation. This comprehensive guide will help you understand, install, and effectively use the OSINT framework for security research and analysis.
 
 ## Getting Started
 
-If you're new to the OSINT Framework, we recommend starting with these guides:
+If you're new to the OSINT Framework, I recommend starting with these guides:
 
 1. [Installation Guide](guides/installation.md) - Complete instructions for setting up the framework
 2. [Usage Guide](guides/usage.md) - Learn how to use the framework effectively
@@ -44,9 +44,9 @@ The OSINT Framework is a powerful tool for security research. Please ensure you:
 
 Stay up to date with the latest features and security updates:
 
-1. Check our GitHub repository regularly
+1. Check the GitHub repository regularly
 2. Subscribe to security advisories
-3. Join our mailing list for updates
+3. Join the mailing list for updates
 
 ## Quick Links
 
