@@ -15,7 +15,7 @@ We take the security of the OSINT Framework seriously. If you believe you have f
 
 1. **Do Not** disclose the vulnerability publicly until it has been addressed by our team.
 2. Submit your findings through one of these channels:
-   - Email our security team directly at [security@your-domain.com]
+   - Email our security team directly at [hguaddim@gmail.com]
    - Open a confidential issue in our security advisory section
    - Use our private vulnerability reporting form (if available)
 
