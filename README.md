@@ -26,7 +26,7 @@ pip install -r requirements.txt
 cp config.yaml.example config.yaml
 ```
 
-For detailed installation and configuration instructions, see our [Installation Guide](docs/guides/installation.md).
+For detailed installation and configuration instructions, see the [Installation Guide](docs/guides/installation.md).
 
 ## Features
 
@@ -42,7 +42,7 @@ For detailed installation and configuration instructions, see our [Installation 
 
 ## Documentation
 
-For comprehensive documentation about installing, using, and extending the framework, please visit our [Documentation Center](docs/index.md). Key resources include:
+For comprehensive documentation about installing, using, and extending the framework, please visit the [Documentation Center](docs/index.md). Key resources include:
 
 - [Getting Started Guide](docs/guides/usage.md)
 - [Module Development](docs/technical/modules.md)
@@ -51,7 +51,7 @@ For comprehensive documentation about installing, using, and extending the frame
 
 ## Contributing
 
-We welcome contributions to the OSINT Framework! Please review our:
+I welcome contributions to the OSINT Framework! Please review:
 - [Contributing Guidelines](docs/CONTRIBUTING.md)
 - [Development Timeline](docs/timeline.md)
 
@@ -59,7 +59,7 @@ Before submitting pull requests or starting development work.
 
 ## Security Considerations
 
-This tool is designed for legal and ethical use only. Always ensure you have permission to scan any targets and comply with all applicable laws and regulations. For more information about security and ethical considerations, see our [documentation](docs/index.md#security-considerations).
+This tool is designed for legal and ethical use only. Always ensure you have permission to scan any targets and comply with all applicable laws and regulations. For more information about security and ethical considerations, see the [documentation](docs/index.md#security-considerations).
 
 ## Support and Community
 
@@ -67,7 +67,7 @@ This tool is designed for legal and ethical use only. Always ensure you have per
 - [Project Board](https://github.com/yourusername/osint-framework/projects) - View current development status
 - [Documentation](docs/index.md) - Comprehensive guides and references
 
-Note: Issue tracking and project board links will be active once the repository is public. In the meantime, please refer to our [Development Timeline](docs/timeline.md) for current project status and planned features.
+Note: Issue tracking and project board links will be active once the repository is public. In the meantime, please refer to the [Development Timeline](docs/timeline.md) for current project status and planned features.
 
 ## License
 
