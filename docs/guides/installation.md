@@ -23,7 +23,7 @@ First, ensure you have Python 3.8 or higher installed:
 python --version
 ```
 
-If you need to install Python, you can download it from [python.org](python.org) or use your system's package manager:
+If you need to install Python, you can download it from [python.org](www.python.org) or use your system's package manager:
 
 For Ubuntu/Debian:
 ```bash
@@ -85,7 +85,7 @@ brew install nmap openssl
 ```
 
 For Windows:
-- Download and install Nmap from [nmap.org](nmap.org)
+- Download and install Nmap from [nmap.org](www.nmap.org)
 - Install Build Tools for Visual Studio
 
 ## Advanced Installation
