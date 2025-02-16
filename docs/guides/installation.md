@@ -23,7 +23,7 @@ First, ensure you have Python 3.8 or higher installed:
 python --version
 ```
 
-If you need to install Python, you can download it from python.org or use your system's package manager:
+If you need to install Python, you can download it from (python.org)[python.org] or use your system's package manager:
 
 For Ubuntu/Debian:
 ```bash
@@ -85,7 +85,7 @@ brew install nmap openssl
 ```
 
 For Windows:
-- Download and install Nmap from nmap.org
+- Download and install Nmap from (nmap.org)[nmap.org]
 - Install Build Tools for Visual Studio
 
 ## Advanced Installation
@@ -212,7 +212,7 @@ If you encounter any issues:
 
 1. Check the troubleshooting guide in the documentation
 2. Open an issue on GitHub
-3. Join our community Discord server
-4. Email support at support@osint-framework.com
+3. Join our community Discord server (coming soon)
+4. Email support at (hguaddim@gmail.com)[hguaddim@gmail.com]
 
 Remember to keep your installation updated and regularly check for security advisories related to the dependencies.
