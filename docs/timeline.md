@@ -1,6 +1,6 @@
 # OSINT Framework Development Roadmap
 
-This document outlines the development roadmap for the OSINT Framework. It serves as a guide for both current development status and future plans. Whether you're interested in contributing or simply want to understand the project's direction, this roadmap will help you understand our progress and priorities.
+This document outlines the development roadmap for the OSINT Framework. It serves as a guide for both current development status and future plans. Whether you're interested in contributing or simply want to understand the project's direction, this roadmap will help you understand progress and priorities.
 
 ## Phase 1: Core Framework Development
 Estimated Timeline: 4-6 weeks
