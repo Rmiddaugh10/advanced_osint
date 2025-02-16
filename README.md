@@ -63,8 +63,8 @@ This tool is designed for legal and ethical use only. Always ensure you have per
 
 ## Support and Community
 
-- [Issue Tracker](https://github.com/yourusername/osint-framework/issues) - Report bugs and request features
-- [Project Board](https://github.com/yourusername/osint-framework/projects) - View current development status
+- [Issue Tracker](https://github.com/Rmiddaugh10/advanced_osint/issues) - Report bugs and request features
+- [Project Board](https://github.com/Rmiddaugh10/advanced_osint/projects) - View current development status
 - [Documentation](docs/index.md) - Comprehensive guides and references
 
 Note: Issue tracking and project board links will be active once the repository is public. In the meantime, please refer to the [Development Timeline](docs/timeline.md) for current project status and planned features.
