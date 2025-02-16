@@ -67,6 +67,8 @@ This tool is designed for legal and ethical use only. Always ensure you have per
 - [Project Board](https://github.com/yourusername/osint-framework/projects) - View current development status
 - [Documentation](docs/index.md) - Comprehensive guides and references
 
+Note: Issue tracking and project board links will be active once the repository is public. In the meantime, please refer to our [Development Timeline](docs/timeline.md) for current project status and planned features.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
