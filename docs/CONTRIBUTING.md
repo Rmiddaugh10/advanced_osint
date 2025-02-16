@@ -13,7 +13,7 @@ Thank you for your interest in contributing to the OSINT Framework! This documen
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [project maintainers].
+This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [hguaddim@gmail.com].
 
 ## Getting Started
 
