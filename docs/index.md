@@ -50,8 +50,8 @@ Stay up to date with the latest features and security updates:
 
 ## Quick Links
 
-- [GitHub Repository](https://github.com/yourusername/osint-framework)
-- [Issue Tracker](https://github.com/yourusername/osint-framework/issues)
+- [GitHub Repository](https://github.com/Rmiddaugh10/advanced_osint)
+- [Issue Tracker](https://github.com/Rmiddaugh10/advanced_osint/issues)
 - [Change Log](CHANGELOG.md)
 - [Security Policy](SECURITY.md)
 
