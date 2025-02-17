@@ -6,7 +6,7 @@ A comprehensive Open Source Intelligence (OSINT) framework designed for security
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/advanced-osint.git
+git clone https://github.com/Rmiddaugh10/advanced-osint.git
 cd advanced-osint
 ```
 
@@ -51,7 +51,7 @@ For comprehensive documentation about installing, using, and extending the frame
 
 ## Contributing
 
-I welcome contributions to the OSINT Framework! Please review:
+Contributions to the OSINT Framework are welcome! Please review:
 - [Contributing Guidelines](docs/CONTRIBUTING.md)
 - [Development Timeline](docs/timeline.md)
 
