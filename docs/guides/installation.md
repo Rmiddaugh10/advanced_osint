@@ -42,8 +42,8 @@ It's recommended to use a virtual environment to keep your project dependencies 
 
 ```bash
 # Create a new directory for your project
-mkdir osint-project
-cd osint-project
+mkdir advanced_osint
+cd advanced_osint
 
 # Create a virtual environment
 python -m venv venv
@@ -61,13 +61,13 @@ Now you can install the OSINT framework using pip:
 
 ```bash
 # Install the basic package
-pip install osint-framework
+pip install advanced_osint
 
 # For development (includes testing tools)
-pip install osint-framework[dev]
+pip install advanced_osint[dev]
 
 # For documentation
-pip install osint-framework[docs]
+pip install advanced_osint[docs]
 ```
 
 ### 4. System Dependencies
@@ -96,8 +96,8 @@ If you want to contribute or modify the framework:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/osint-framework.git
-cd osint-framework
+git clone https://github.com/Rmiddaugh10/advanced_osint.git
+cd advanced_osint
 
 # Install in development mode
 pip install -e .[dev]
@@ -109,10 +109,10 @@ For containerized deployment:
 
 ```bash
 # Build the Docker image
-docker build -t osint-framework .
+docker build -t advanced_osint .
 
 # Run the container
-docker run -it --name osint osint-framework
+docker run -it --name osint advanced_osint
 ```
 
 ## Configuration Setup
@@ -121,18 +121,18 @@ After installation, you'll need to set up your configuration:
 
 1. Create a configuration directory:
 ```bash
-mkdir ~/.osint-framework
+mkdir ~/.advanced_osint
 ```
 
 2. Copy the default configuration:
 ```bash
-cp config.yaml.example ~/.osint-framework/config.yaml
+cp config.yaml.example ~/.advanced_osint/config.yaml
 ```
 
 3. Edit the configuration with your API keys:
 ```bash
 # Use your favorite text editor
-nano ~/.osint-framework/config.yaml
+nano ~/.advanced_osint/config.yaml
 ```
 
 ## Verifying Installation
@@ -167,8 +167,8 @@ For Linux/macOS systems, if you encounter permission errors:
 
 ```bash
 # Fix permissions on the configuration directory
-chmod 700 ~/.osint-framework
-chmod 600 ~/.osint-framework/config.yaml
+chmod 700 ~/.advanced_osint
+chmod 600 ~/.advanced_osint/config.yaml
 ```
 
 ### Module Import Errors
@@ -188,7 +188,7 @@ pip install --force-reinstall -r requirements.txt
 To update to the latest version:
 
 ```bash
-pip install --upgrade osint-framework
+pip install --upgrade advanced_osint
 ```
 
 ## Development Setup
